@@ -1,0 +1,4 @@
+﻿username,password,sex,Fname,Lname,Code
+standard_user,secret_sauce,m,Wangboon,Bualoilom,123456
+problem_user,secret_sauce,f,John,Doe,654321
+performance_glitch_user,secret_sauce,f,Jane,Smith,789012
